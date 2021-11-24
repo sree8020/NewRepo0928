@@ -1,3 +1,5 @@
+//My First Java code
+
 package pack1;
 
 public class MavenProj1 {
